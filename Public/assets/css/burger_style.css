@@ -1,5 +1,12 @@
 
 body{
 	background-color: orange;
-	text-align: center;
+
+}
+
+
+
+
+.container, .jumbotron{
+    background-color: rgb(243, 212, 10);
 }
